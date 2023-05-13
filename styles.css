@@ -1,0 +1,71 @@
+div.content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgb(248, 242, 242);
+}
+
+header {
+    background-color:rgba(51, 53, 49, 0.7);
+}
+
+nav a:hover {
+    background-color: rgb(17, 16, 16);
+}
+
+nav a:hover {
+    background-color: rgb(3, 3, 3);
+    color: #131212;
+}    
+
+.icon {
+    width: 80px;
+}
+
+nav a {
+    text-align: center;
+    color: #382c2c;
+    text-decoration: none;
+}
+
+nav a{
+    text-align: center;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+} 
+
+footer{
+    background-color: #867f7ff3;
+}
+
+#hero-msg{
+    text-align: center;
+}
+
+#background {
+    height: 750px;
+}
+
+#background{
+    background-color: #201f1f;
+}
+
+.msg{
+    background-color: #555353c2;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
